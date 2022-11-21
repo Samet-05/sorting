@@ -12,7 +12,7 @@ int temp;
 int y;
 
 
-printf("girilecek eleman sayisi:");
+printf("girilecek eleman sayisi:  ");
 scanf("%d",&n);
 
 
