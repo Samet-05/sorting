@@ -2,7 +2,7 @@
 
 
 
-
+//quick sort
 
  void sort(int x, int y, int array[]){
 
