@@ -33,9 +33,7 @@ if(j==pivot-1){
  
 }
 }
-// printf("%d",array[i]);
-// printf("\n%d",array[j]);
-// printf("\n%d",array[y]);
+
 }
 
 
@@ -59,13 +57,3 @@ int main(){
 }
 
 
-
-
-
-/*
-        []   
-  1 1 2 4 9 6 
-  []      []                []  []
-  1 1 0 1 2 2 4 4 5 2 3 2 7 6 9 9
-                      i j                              
- */
